@@ -20,7 +20,7 @@ export default function About() {
                 <div className="mt-6 flex flex-col md:flex-row md:items-start md:gap-12">
                     <div className="flex-1 space-y-5 text-[15px] md:text-lg text-neutral-700 dark:text-neutral-300">
                         <p>
-                            I'm Ahammed Nibras, a software engineer obsessed with building elegant, performant, and human‑centered digital experiences. My journey began with an insatiable curiosity for mobile development, where I rapidly mastered Flutter. This passion for creation then led me to the web, where I've focused on building with the modern Next.js ecosystem.
+                            I&apos;m Ahammed Nibras, a software engineer obsessed with building elegant, performant, and human‑centered digital experiences. My journey began with an insatiable curiosity for mobile development, where I rapidly mastered Flutter. This passion for creation then led me to the web, where I&apos;ve focused on building with the modern Next.js ecosystem.
                         </p>
 
                         <p>
@@ -59,7 +59,7 @@ export default function About() {
                     </div>
 
                     <div className="relative flex-shrink-0 mt-8 md:mt-0 w-full max-w-sm md:w-[400px] md:h-[400px] mx-auto hidden md:block group">
-                        <img
+                        <Image
                             src="/ahammednibras.jpeg"
                             alt="Ahammed Nibras"
                             className="relative z-10 w-full h-full rounded-lg object-cover border-2 border-transparent transition-all duration-500 group-hover:border-black dark:group-hover:border-white"

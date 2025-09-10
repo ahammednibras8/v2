@@ -36,7 +36,7 @@ export default function Hero() {
                 aria-label="Start a Conversation"
                 title="Contact"
               >
-                Let's talk
+                Let&apos;s talk
               </a>
             </div>
           </div>
