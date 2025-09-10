@@ -1,6 +1,6 @@
 export default function Navbar() {
     return (
-        <nav className="container mx-auto px-6 py-4 flex justify-end items-center">
+        <nav className="fixed z-50 bg-white dark:bg-black py-8 container mx-auto px-6 flex justify-end items-center">
             <ul className="hidden md:flex items-center space-x-8 text-sm font-semibold font-mono">
                 <li><button className="text-black dark:text-white hover:text-gray-500 dark:hover:text-gray-500 transition-colors duration-300">01. About</button></li>
                 <li><button className="text-black dark:text-white hover:text-gray-500 dark:hover:text-gray-500 transition-colors duration-300">02. Experience</button></li>
